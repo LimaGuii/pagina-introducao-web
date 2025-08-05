@@ -20,12 +20,13 @@ O objetivo foi criar uma página interativa aplicando conceitos básicos de HTML
 [HTML do Projeto](html.jpg)
 
 ### 3. CSS
-[CSS do Projeto](css.jpg,css2.jpg)
+[CSS do Projeto](css.jpg)
+[CSS do Projeto](css2.jpg)
 
 ### 4. JavaScript
 [JavaScript do Projeto](javascript.jpg)
 
-### 2. Página Final
+### 5. Página Final
 ![Página Final](pagina_web.jpg)
 
 ---
